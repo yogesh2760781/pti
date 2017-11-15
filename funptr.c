@@ -1,3 +1,4 @@
+//this is comment in file
 #include<stdio.h>
 int sq(int a)
 {
